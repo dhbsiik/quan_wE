@@ -1,0 +1,13 @@
+# 全新VUE基金投资理财系统/余额宝/签到/积分商城/余额互转
+
+此套基金投资理财系统全新定制，前端vue开发带源码，后端thinkphp<br>系统功能支持：签到、、积分商城、余额宝、余额互转等功能<br><br>前端加了多语言但是没翻译完全，可二开添加其他语言<br><br>
+
+http://example.com/code/example.com
+
+
+
+
+
+
+
+<p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/tgymw_shop" style="color: red;">@tgymw_shop</a></p>
